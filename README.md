@@ -84,12 +84,18 @@ Displays true positives, false positives, true negatives, and false negatives of
 
 ### 2️⃣ Feature Importance Graph
 Shows which features contribute the most to customer churn prediction.
+<img width="949" height="528" alt="image" src="https://github.com/user-attachments/assets/f6656f5d-464e-4af7-9b8a-ebebde412c7e" />
+
 
 ### 3️⃣ Contract vs Churn Count Plot
 Visualizes how churn is distributed across different contract types.
+<img width="580" height="432" alt="image" src="https://github.com/user-attachments/assets/a69f0f9c-4810-4e31-8689-1b27d7500f79" />
+
 
 ### 4️⃣ Monthly Charges vs Churn Boxplot
 Shows how monthly charges differ between churned and non-churned customers.
+<img width="571" height="432" alt="image" src="https://github.com/user-attachments/assets/b6fb098f-9ec5-4dc4-88a6-74583539c2b5" />
+
 
 ---
 
